@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: User story
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-s a** [role]  
+**As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
@@ -20,3 +20,4 @@ s a** [role]
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
+ ```
